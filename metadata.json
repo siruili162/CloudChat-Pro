@@ -1,0 +1,6 @@
+{
+  "name": "CloudChat-Pro",
+  "description": "A real-time native Android chat application powered by MQTT protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
